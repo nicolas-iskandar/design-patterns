@@ -1,4 +1,4 @@
-import Singleton.Demo;
+import FactoryMethod.Demo;
 
 public class Main {
     public static void main(String[] args) {
