@@ -1,4 +1,4 @@
-import AbstractFactory.Demo;
+import Builder.Demo;
 
 public class Main {
     public static void main(String[] args) {
