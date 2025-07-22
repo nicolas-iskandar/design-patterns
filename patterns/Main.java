@@ -1,4 +1,4 @@
-import Prototype.Example.Demo;
+import Facade.Example.Demo;
 
 public class Main {
     public static void main(String[] args) {
