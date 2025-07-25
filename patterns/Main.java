@@ -1,4 +1,4 @@
-import Adapter.Example.Demo;
+import Composite.Example.Demo;
 
 public class Main {
     public static void main(String[] args) {
