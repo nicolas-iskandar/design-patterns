@@ -1,4 +1,4 @@
-import Proxy.Example.Demo;
+import Decorator.Example.Demo;
 
 public class Main {
     public static void main(String[] args) {
