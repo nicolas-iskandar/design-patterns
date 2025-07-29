@@ -1,4 +1,4 @@
-import Bridge.Example.Demo;
+import Flyweight.Example.Demo;
 
 public class Main {
     public static void main(String[] args) {
