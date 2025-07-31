@@ -1,4 +1,4 @@
-import Flyweight.Example.Demo;
+import TemplateMethod.Example.Demo;
 
 public class Main {
     public static void main(String[] args) {
