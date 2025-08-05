@@ -1,4 +1,4 @@
-import Command.Example.Demo;
+import Mediator.Example.Demo;
 
 public class Main {
     public static void main(String[] args) {
