@@ -1,4 +1,4 @@
-import Visitor.Example.Demo;
+import Interpreter.Example.Demo;
 
 public class Main {
     public static void main(String[] args) {
